@@ -1,0 +1,20 @@
+/* Geral */
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body,
+#root {
+  height: 100vh;
+  margin: 0;
+  background-image: url("./img/plano_de_fundo.jpg");
+}
+body, input, select, button, textarea{
+  font-size: 1.6rem;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a:hover{
+  color: #190c63;
+}
